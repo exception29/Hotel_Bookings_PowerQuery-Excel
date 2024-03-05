@@ -1,6 +1,6 @@
 # Hotel_Bookings_PowerQuery-Excel
- CSV files
- 1. bookings_data1: The bookings_data file consists of several columns, such as date, property_id, property_name, hotel_type, city|city_code, room_id, successful_bookings, and capacity. This file provides insights into the number of successful bookings made for a property on a given date and in a specific city, as well as the overall capacity of the property.
+Input CSV files
+1. bookings_data1: The bookings_data file consists of several columns, such as date, property_id, property_name, hotel_type, city|city_code, room_id, successful_bookings, and capacity. This file provides insights into the number of successful bookings made for a property on a given date and in a specific city, as well as the overall capacity of the property.
 
 2. rooms_data: The rooms_data file consists of two columns, room_id and room_class. This file is useful in determining the room_class associated with each room_id in the bookings_data file.
 
